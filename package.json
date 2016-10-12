@@ -1,0 +1,24 @@
+{
+  "name": "nb-flowchartjs",
+  "version": "0.1.0",
+  "description": "Create flowchart.js - based graphs in Jupyter notebooks",
+  "main": "nb-flowchartjs/static/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhi/nb-flowchartjs.git"
+  },
+  "keywords": [
+    "jupyter",
+    "flowchart",
+    "flowchart.js"
+  ],
+  "author": "Andreas Hildebrandt <andreas.hildebrandt@uni-mainz.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anhi/nb-flowchartjs/issues"
+  },
+  "homepage": "https://github.com/anhi/nb-flowchartjs#readme"
+}
