@@ -14,7 +14,7 @@ define([
 
 /* Render any flowchart contained in the cell */
 var render_cell = function(cell) {
-	$(".flowchart").flowChart();
+	$(cell.element).find(".flowchart").each(function(i, chart) {$(chart).flowChart();}) 
 }
 
 function setup() {
